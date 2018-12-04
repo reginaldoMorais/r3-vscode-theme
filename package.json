@@ -1,0 +1,20 @@
+{
+    "name": "r3-vscode-theme",
+    "displayName": "R3 Theme",
+    "author": "reginaldoMorais <reginaldo.cmorais@gmail.com>",
+    "description": "New R3 Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "r3-vscode-theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/r3-vscode-theme.json"
+        }]
+    }
+}

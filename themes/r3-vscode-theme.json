@@ -1,7 +1,9 @@
 {
   "name": "r3-vscode-theme",
+  "author": "Reginaldo Morais",
   "type": "dark",
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "name": "Global settings",
       "settings": {
         "background": "#263238",

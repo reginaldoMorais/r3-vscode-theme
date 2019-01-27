@@ -3,7 +3,7 @@
     "displayName": "R3 Visual Studio Code Theme",
     "author": "reginaldo.cmorais@gmail.com",
     "description": "New R3 Theme for Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.29.0"
     },

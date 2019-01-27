@@ -1,16 +1,13 @@
-# README
+<p align="center">
+  <a href="https://github.com/reginaldoMorais/r3-cli-vscode-snippet">
+    <img alt="r3-cli" src="https://image.ibb.co/cZZcUn/r3_cli_snippet_icons.png" width="244">
+  </a>
+</p>
 
-## This is the README for your extension "r3-vscode-theme"
+# R3-VSCODE-THEME
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme was created inspired by Atom Code Editor. I put nam "r3-vscode-theme" in reference to my other extension "r3-cli-snippet".
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+So if you like it...
 
 **Enjoy!**

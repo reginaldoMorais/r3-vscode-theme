@@ -1,12 +1,13 @@
 {
     "name": "r3-vscode-theme",
     "displayName": "R3 Visual Studio Code Theme",
-    "author": "reginaldoMorais <reginaldo.cmorais@gmail.com>",
+    "author": "reginaldo.cmorais@gmail.com",
     "description": "New R3 Theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.29.0"
     },
+    "publisher": "reginaldoMorais",
     "categories": [
         "Themes"
     ],
